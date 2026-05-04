@@ -1,0 +1,9 @@
+{
+  "name": "dokada-legal-ai",
+  "version": "1.0.0",
+  "description": "Dokada Legal AI — Demo built by Lavern Pennant. AI-powered legal intake assistant for law firms.",
+  "private": true,
+  "engines": {
+    "node": ">=18.x"
+  }
+}
